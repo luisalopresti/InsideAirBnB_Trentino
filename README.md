@@ -9,6 +9,7 @@ The main purpose of this project is to study AirBnB in the province of Trento an
 4.	Draw a trajectory leading from the cheapest structure to the desired touristic attraction
 5.	Consider position, price, time, and desired points to visit, and draw the optimal route
 6.	Verify if there exist a relation between location and AirBnB price
+
 All the analysis and the comments can be found in the Notebooks collected in this repository.
 Steps from 1 to 5 are contained in the `InsideAirBnB.ipynb` notebook, while the last point can be found inside `SpatialStatisticalAnalysis.ipynb`.
 
