@@ -2,7 +2,7 @@
 This repository stores the project developed for the course “Geospatial Analysis and Representation for Data Science” (University of Trento, 2021/2022).
 
 ## Task
-The main purpose of this project is to study AirBnB in the province of Trento and how they distribute on the territory in relation to the main Points of Interest (PoI). The analysis has been developed following the steps below:
+The main purpose of this project is to study AirBnB in the province of Trento and how they distribute on the territory in relation to the main Points of Interest (PoI). The analysis has been developed according to the following steps:
 1.	Identify AirBnB and PoI in the Province of Trento
 2.	Highlight the areas of greatest concentration of AirBnB and of PoI
 3.	Evaluate which are the cheapest AirBnB structures and define the services and touristic attractions nearby 
