@@ -13,6 +13,8 @@ The main purpose of this project is to study AirBnB in the province of Trento an
 All the analysis and the comments can be found in the Notebooks collected in this repository.
 Steps from 1 to 5 are contained in the `InsideAirBnB.ipynb` notebook, while the last point can be found inside `SpatialStatisticalAnalysis.ipynb`.
 
+Note: this project has been developed using Colab Notebook, thus some cells are useful only in this setting.
+
 ## Data
 For this project, the following data sources have been used:
 -	[InsideAirBnB](http://insideairbnb.com/get-the-data.html), for the AirBnB data of Trentino 
